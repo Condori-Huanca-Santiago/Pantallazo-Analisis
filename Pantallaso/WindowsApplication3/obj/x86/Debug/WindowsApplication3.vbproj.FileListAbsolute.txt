@@ -1,0 +1,59 @@
+c:\users\santi\documents\visual studio 2010\Projects\Pantallaso\WindowsApplication3\bin\Debug\WindowsApplication3.exe
+c:\users\santi\documents\visual studio 2010\Projects\Pantallaso\WindowsApplication3\bin\Debug\WindowsApplication3.pdb
+c:\users\santi\documents\visual studio 2010\Projects\Pantallaso\WindowsApplication3\bin\Debug\WindowsApplication3.xml
+c:\users\santi\documents\visual studio 2010\Projects\Pantallaso\WindowsApplication3\obj\x86\Debug\WindowsApplication3.Form1.resources
+c:\users\santi\documents\visual studio 2010\Projects\Pantallaso\WindowsApplication3\obj\x86\Debug\WindowsApplication3.Resources.resources
+c:\users\santi\documents\visual studio 2010\Projects\Pantallaso\WindowsApplication3\obj\x86\Debug\WindowsApplication3.vbproj.GenerateResource.Cache
+c:\users\santi\documents\visual studio 2010\Projects\Pantallaso\WindowsApplication3\obj\x86\Debug\WindowsApplication3.exe
+c:\users\santi\documents\visual studio 2010\Projects\Pantallaso\WindowsApplication3\obj\x86\Debug\WindowsApplication3.xml
+c:\users\santi\documents\visual studio 2010\Projects\Pantallaso\WindowsApplication3\obj\x86\Debug\WindowsApplication3.pdb
+c:\users\santi\documents\visual studio 2010\Projects\Pantallaso\WindowsApplication3\obj\x86\Debug\WindowsApplication3.Clientes.resources
+c:\users\santi\documents\visual studio 2010\Projects\Pantallaso\WindowsApplication3\obj\x86\Debug\WindowsApplication3.Turnos.resources
+G:\aaaaaaa\Pantallaso\WindowsApplication3\obj\x86\Debug\WindowsApplication3.exe
+G:\aaaaaaa\Pantallaso\WindowsApplication3\obj\x86\Debug\WindowsApplication3.xml
+G:\aaaaaaa\Pantallaso\WindowsApplication3\obj\x86\Debug\WindowsApplication3.pdb
+H:\aaaaaaa\Pantallaso\WindowsApplication3\obj\x86\Debug\WindowsApplication3.exe
+H:\aaaaaaa\Pantallaso\WindowsApplication3\obj\x86\Debug\WindowsApplication3.xml
+H:\aaaaaaa\Pantallaso\WindowsApplication3\obj\x86\Debug\WindowsApplication3.pdb
+H:\aaaaaaa\Pantallaso\WindowsApplication3\bin\Debug\WindowsApplication3.exe
+H:\aaaaaaa\Pantallaso\WindowsApplication3\bin\Debug\WindowsApplication3.pdb
+H:\aaaaaaa\Pantallaso\WindowsApplication3\bin\Debug\WindowsApplication3.xml
+H:\aaaaaaa\Pantallaso\WindowsApplication3\obj\x86\Debug\WindowsApplication3.Clientes.resources
+H:\aaaaaaa\Pantallaso\WindowsApplication3\obj\x86\Debug\WindowsApplication3.Form1.resources
+H:\aaaaaaa\Pantallaso\WindowsApplication3\obj\x86\Debug\WindowsApplication3.Resources.resources
+H:\aaaaaaa\Pantallaso\WindowsApplication3\obj\x86\Debug\WindowsApplication3.Turnos.resources
+H:\aaaaaaa\Pantallaso\WindowsApplication3\obj\x86\Debug\WindowsApplication3.vbproj.GenerateResource.Cache
+E:\aaaaaaa\Pantallaso\WindowsApplication3\obj\x86\Debug\WindowsApplication3.exe
+E:\aaaaaaa\Pantallaso\WindowsApplication3\obj\x86\Debug\WindowsApplication3.xml
+E:\aaaaaaa\Pantallaso\WindowsApplication3\obj\x86\Debug\WindowsApplication3.pdb
+E:\aaaaaaa\Pantallaso\WindowsApplication3\bin\Debug\WindowsApplication3.exe
+E:\aaaaaaa\Pantallaso\WindowsApplication3\bin\Debug\WindowsApplication3.pdb
+E:\aaaaaaa\Pantallaso\WindowsApplication3\bin\Debug\WindowsApplication3.xml
+E:\aaaaaaa\Pantallaso\WindowsApplication3\obj\x86\Debug\WindowsApplication3.Clientes.resources
+E:\aaaaaaa\Pantallaso\WindowsApplication3\obj\x86\Debug\WindowsApplication3.Form1.resources
+E:\aaaaaaa\Pantallaso\WindowsApplication3\obj\x86\Debug\WindowsApplication3.Resources.resources
+E:\aaaaaaa\Pantallaso\WindowsApplication3\obj\x86\Debug\WindowsApplication3.Turnos.resources
+E:\aaaaaaa\Pantallaso\WindowsApplication3\obj\x86\Debug\WindowsApplication3.vbproj.GenerateResource.Cache
+G:\aaaaaaa\Pantallaso\WindowsApplication3\bin\Debug\WindowsApplication3.exe
+G:\aaaaaaa\Pantallaso\WindowsApplication3\bin\Debug\WindowsApplication3.pdb
+G:\aaaaaaa\Pantallaso\WindowsApplication3\bin\Debug\WindowsApplication3.xml
+G:\aaaaaaa\Pantallaso\WindowsApplication3\obj\x86\Debug\WindowsApplication3.Clientes.resources
+G:\aaaaaaa\Pantallaso\WindowsApplication3\obj\x86\Debug\WindowsApplication3.Form1.resources
+G:\aaaaaaa\Pantallaso\WindowsApplication3\obj\x86\Debug\WindowsApplication3.Resources.resources
+G:\aaaaaaa\Pantallaso\WindowsApplication3\obj\x86\Debug\WindowsApplication3.Turnos.resources
+G:\aaaaaaa\Pantallaso\WindowsApplication3\obj\x86\Debug\WindowsApplication3.vbproj.GenerateResource.Cache
+G:\aaaaaaa\Pantallaso\WindowsApplication3\obj\x86\Debug\WindowsApplication3.Agr_Advertencia.resources
+G:\aaaaaaa\Pantallaso\WindowsApplication3\obj\x86\Debug\WindowsApplication3.AdvertenciaEl.resources
+D:\aaaaaaa\Pantallaso\WindowsApplication3\obj\x86\Debug\WindowsApplication3.exe
+D:\aaaaaaa\Pantallaso\WindowsApplication3\obj\x86\Debug\WindowsApplication3.xml
+D:\aaaaaaa\Pantallaso\WindowsApplication3\obj\x86\Debug\WindowsApplication3.pdb
+D:\aaaaaaa\Pantallaso\WindowsApplication3\bin\Debug\WindowsApplication3.exe
+D:\aaaaaaa\Pantallaso\WindowsApplication3\bin\Debug\WindowsApplication3.pdb
+D:\aaaaaaa\Pantallaso\WindowsApplication3\bin\Debug\WindowsApplication3.xml
+D:\aaaaaaa\Pantallaso\WindowsApplication3\obj\x86\Debug\WindowsApplication3.Clientes.resources
+D:\aaaaaaa\Pantallaso\WindowsApplication3\obj\x86\Debug\WindowsApplication3.AdvertenciaEl.resources
+D:\aaaaaaa\Pantallaso\WindowsApplication3\obj\x86\Debug\WindowsApplication3.Form1.resources
+D:\aaaaaaa\Pantallaso\WindowsApplication3\obj\x86\Debug\WindowsApplication3.Resources.resources
+D:\aaaaaaa\Pantallaso\WindowsApplication3\obj\x86\Debug\WindowsApplication3.Turnos.resources
+D:\aaaaaaa\Pantallaso\WindowsApplication3\obj\x86\Debug\WindowsApplication3.vbproj.GenerateResource.Cache
+E:\aaaaaaa\Pantallaso\WindowsApplication3\obj\x86\Debug\WindowsApplication3.AdvertenciaEl.resources
